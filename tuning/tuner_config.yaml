@@ -1,0 +1,6 @@
+project:
+  name: FlashTuning
+  version: '1.0'
+config:
+  max_seqlen: 4096 # max seqlen for verify
+  test_mode: False
